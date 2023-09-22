@@ -1,1 +1,3 @@
 Matrix operations:- https://byjus.com/jee/matrix-operations/
+Inverse:- https://byjus.com/maths/inverse-matrix/
+Permutation:- https://www.investopedia.com/terms/p/permutation.asp#:~:text=Investopedia%20%2F%20Michela%20Buttignol-,What%20Is%20a%20Permutation%3F,order%20of%20the%20arrangement%20matters.
